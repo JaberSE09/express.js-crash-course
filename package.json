@@ -1,0 +1,22 @@
+{
+  "name": "express.js-crashcourse",
+  "version": "1.0.0",
+  "description": "Crash course Express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaberSE09/express.js-crash-course.git"
+  },
+  "author": "Sajid Jaber",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JaberSE09/express.js-crash-course/issues"
+  },
+  "homepage": "https://github.com/JaberSE09/express.js-crash-course#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
